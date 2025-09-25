@@ -1,5 +1,4 @@
-#!/usr/bin/env python3
-"""
+
 Simple multithreaded TCP port scanner (educational).
 Only scan targets you own or have permission to test.
 """
